@@ -24,7 +24,7 @@ A Tableau story on this analysis provided the below results:
 ![Heatmap_gender.png](/Heatmap_gender.png)
 
 6. Breakdown in pie chart of percentage of Users in pay-per-ride Customers vs long-term Subscribers.  There are more Subscribers than Customers.
-![Users_pie.png](/Users_pie.png)
+![User_pie.png](/Users_pie.png)
 
 7. Combination of Heatmap of users by Gender and by user type of Customer vs Subscriber. There are more Male Subsribers than any of the other combinations of Gender and User types. 
 ![Users_gender.png](/Users_gender.png)
